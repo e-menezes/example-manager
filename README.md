@@ -145,3 +145,4 @@ Because the argument to `--name` applies to the folder name **and** the actual c
 ___
 
 
+# example-manager
