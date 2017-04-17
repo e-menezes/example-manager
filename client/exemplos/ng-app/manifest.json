@@ -1,0 +1,7 @@
+{
+  "name": "ng-app",
+  "files": [
+    "index.html",
+    "script.js"
+  ]
+}

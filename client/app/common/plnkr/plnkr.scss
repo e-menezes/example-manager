@@ -1,0 +1,26 @@
+.plnkr, plnkr{
+  md-tabs {
+    border-width: 0 0 1px;
+    border-style: solid;
+  }
+  md-tabs, hr {
+    border-color: rgba(0,0,0,0.12);
+    margin-top: 0px;
+  }
+
+  .md-button {
+    margin: 0px;
+  }
+
+  iframe {
+    border: none;
+  }
+
+  .file-content{
+    padding: 5px 25px;
+    pre {
+      margin: 0px;
+      font-size: 1.5em;
+    }
+  }
+}
